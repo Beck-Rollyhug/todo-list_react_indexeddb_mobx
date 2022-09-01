@@ -1,0 +1,22 @@
+.create-task-b {
+  /* Frame 9 */
+
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  gap: 10px;
+
+  width: 165px;
+  height: 48px;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
