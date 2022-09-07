@@ -6,8 +6,8 @@
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Dependencies & technologies
-mobx <br>
-node-sass <br>
-Typescript <br>
+mobx (in future)<br>
+node-sass (soon)<br>
+Typescript (in future)<br>
 IndexedDB <br>
 React
